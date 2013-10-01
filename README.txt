@@ -23,40 +23,55 @@ Once completed, students should know:
 Curriculum 30 hours
 ====================
 
-LESSON 1: INTRODUCTION TO WORDPRESS
-What is WordPress
-WordPress.com vs .org
-Advantages/disadvantages of WordPress
-Installing WordPress
-The WordPress dashboard
 
-LESSON 2: THEMES, TEMPLATES & CHILD THEMES
-WordPress developer theming options
-Overview of WordPress themes
-In Depth look at TwentyTwelve
-Child Theme
+Lesson 1: Introduction to WordPress
 
-LESSON 3: CUSTOM THEMES
-What's a theme?
-What's a template?
-Choosing the right starting base for you theme
-Templates needed
-Step by step theming
+    What is WordPress
+    WordPress.com vs .org
+    Advantages/disadvantages of WordPress
+    Installing WordPress
+    The WordPress dashboard
 
-LESSON 4: ADVANCED THEMING TECHNIQUES
-The body_class() function
-Custom fields
+Lesson 2: Themes, Templates & Child Themes
 
-LESSON 5: TEMPLATE CUSTOMIZATION
-Post thumbnails (feature images)
-Page, category, custom templates
-Mastering the loop
+    WordPress developer theming options
+    Overview of WordPress themes
+    In Depth look at TwentyTwelve
+    Child Theme
 
-LESSON 6: CUSTOM POST TYPES
-What are CPTs
-Adding CPTs
-Using Plugins to create CPTs
-Querying CPTs
+Lesson 3: Custom Theme
+
+    What’s a theme?
+    What’s a template?
+    Choosing the right starting base for you theme
+    Templates needed
+    Step by step theming
+
+Lesson 4: Advanced Theming Techniques
+
+    The body_class() function
+    Custom fields
+    Post thumbnails (feature images)
+    Data validation
+
+Lesson 5: Template Customization
+
+    Page, category, custom templates
+    The loop
+    Actions and Filters
+    jQuery
+
+Lesson 6: Custom Post Types & Taxonomies
+
+    What are CPTs
+    Adding CPTs
+    Using Plugins to create CPTs
+    Querying CPTs
+    What are taxonomies
+    adding taxonomies
+    querying posts by taxonomy term
+
+
 
 Teachers Notes
 ===============
